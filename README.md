@@ -1,2 +1,3 @@
-# PSOutputManager
+# Distributary <sup>[0]</sup>
 A module aimed at simplifying the management of output streams, logs, and more... To be consumed by other modules, scripts, etc...
+[Distributary - WikiPedia](https://en.wikipedia.org/wiki/Distributary) - *A distributary, or a distributary channel, is a stream that branches off and flows away from a main stream channel.*
