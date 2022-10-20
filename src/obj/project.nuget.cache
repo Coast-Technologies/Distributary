@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ByL4YlGSwbNMq5PkH1XgFJyELL17vR49ae8sJzvKdYVtoL16XpPdQZAZGdJoRHAtXvyN5tPyPgx9G55wURBUQQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\Distributary\\src\\Distributary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert Bleattler\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Robert Bleattler\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Robert Bleattler\\.nuget\\packages\\powershellstandard.library\\5.1.0-preview-06\\powershellstandard.library.5.1.0-preview-06.nupkg.sha512"
+  ],
+  "logs": []
+}
