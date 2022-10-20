@@ -1,4 +1,6 @@
-
+/obj
+obj/*
+obj/*.o
 .vs/
 Generated\ Files/
 [Tt]est [Rr]esult*/
