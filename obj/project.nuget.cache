@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YNqTvVw+PiCuTbR2OPRCwAkODzVxV5fdq5PhCnvzKLVZyvVVtIeWIMJMOHxr7RmKwCaV6abkp1If9SOAGa8jhw==",
+  "dgSpecHash": "P61xUIqWrCMSviAgpmdqG/3cx0oCqkumFhX7fllhXeA1FwyqXLPZCaRU6CNLTbOBdORLN7C+m4IuMYS0V3ygLQ==",
   "success": true,
-  "projectFilePath": "/home/rbleattler/repos/Distributary/Distributary.csproj",
+  "projectFilePath": "C:\\Repos\\Distributary\\Distributary.csproj",
   "expectedPackageFiles": [
-    "/home/rbleattler/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/rbleattler/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/home/rbleattler/.nuget/packages/powershellstandard.library/5.1.0-preview-06/powershellstandard.library.5.1.0-preview-06.nupkg.sha512"
+    "C:\\Users\\rbleattler\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rbleattler\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rbleattler\\.nuget\\packages\\powershellstandard.library\\5.1.0-preview-06\\powershellstandard.library.5.1.0-preview-06.nupkg.sha512"
   ],
   "logs": []
 }
